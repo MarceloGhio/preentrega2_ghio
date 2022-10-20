@@ -136,4 +136,9 @@ a{
 #gal{
     background-color: #414142ec;
 }
+
+#noticias{
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
+}
 /*-----------de aca para arriba funciona bien con el css---------------*/
