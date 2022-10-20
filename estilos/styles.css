@@ -1,0 +1,84 @@
+header{
+    background-color: #121213;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+#banner{
+    padding: 0;
+    background-color: #27242b;
+}
+
+#historia{
+    background-image: url("../img/background__historia.jpg");
+    background-size: auto;
+    color: #FFFFFF;
+}
+
+#inicia{
+    background-color: #27242b;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 1.5vw;
+}
+
+.pp1{
+    margin-bottom: 0vw;
+}
+
+.the_witcher{
+    background-color: #414142ec;
+    color: #FFFFFF;
+    margin: 0rem;
+    padding: 3rem;
+}
+ .the_witcher3{
+    margin: 0px;
+    padding: 2rem;
+ }
+
+ .img_geralt{
+    max-width: 100vw;
+    background-color: #414142ec;
+    margin: 0rem;
+    padding: 0rem;
+ }
+
+ /*--FOOTER--*/
+
+.footer{
+    background-color: #0f0f16;
+    padding-left: 3rem;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+#gal{
+    background-image: url("../img/background__historia.jpg");
+    width: 100vw;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#gal img{
+    width: 100%;
+}
+
+
+#galeria{
+    width: 100vh;
+}
+
+.contenedor_galeria{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.1em;
+}
