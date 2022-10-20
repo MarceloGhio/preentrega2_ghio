@@ -1,4 +1,4 @@
-body{
+/*body{
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
@@ -55,7 +55,7 @@ a{
 
 }
 
- /*--FOOTER--*/
+ --FOOTER--
 
 .footer{
     background-color: #0f0f16;
@@ -83,4 +83,29 @@ a{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 0.1em;
+}*/
+/*---------------------------------------------ACA-------------------------------------------*/
+
+header{
+    background-color: #121213;
 }
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#banner{
+    background-color: #121213;
+}
+
+#historia{
+    background-color: #414142ec;
+    color: #c2bdbd;
+}
+
+/*-----------de aca para arriba funciona bien con el css---------------*/
