@@ -104,13 +104,13 @@ a{
 }
 
 #historia{
-    background-color: #414142ec;
-    color: #c2bdbd;
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
 }
 
 #tienda{
-    background-color: #414142ec;
-    color: #c2bdbd;
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
 }
 
 .footer{
@@ -130,11 +130,13 @@ a{
     color: #FFFFFF;
 }
 #geralt__img{
-    background-color: #414142ec;
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
 }
 
 #gal{
-    background-color: #414142ec;
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
 }
 
 #noticias{
