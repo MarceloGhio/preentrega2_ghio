@@ -108,4 +108,26 @@ a{
     color: #c2bdbd;
 }
 
+#tienda{
+    background-color: #414142ec;
+    color: #c2bdbd;
+}
+
+.footer{
+    background-color: #0f0f16;
+    padding-left: 3rem;
+}
+
+#inicia{
+    background-color: #27242b;
+    color: #FFFFFF;
+}
+
+.the_witcher{
+    background-color: #414142ec;
+    color: #FFFFFF;
+}
+#geralt__img{
+    background-color: #414142ec;
+}
 /*-----------de aca para arriba funciona bien con el css---------------*/
