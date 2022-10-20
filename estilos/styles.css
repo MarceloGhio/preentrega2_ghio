@@ -122,7 +122,7 @@ a{
     background-color: #27242b;
     color: #FFFFFF;
     margin: 0px;
-    
+
 }
 
 .the_witcher{
@@ -130,6 +130,10 @@ a{
     color: #FFFFFF;
 }
 #geralt__img{
+    background-color: #414142ec;
+}
+
+#gal{
     background-color: #414142ec;
 }
 /*-----------de aca para arriba funciona bien con el css---------------*/
