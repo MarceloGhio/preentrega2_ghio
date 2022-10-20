@@ -17,7 +17,7 @@ a{
 }
 
 #historia{
-    
+    background-color: #414142ec;
     color: #c2bdbd;
 }
 
@@ -58,10 +58,8 @@ a{
     flex-wrap: nowrap;
 }
 
-#gal{
-    background-image: url("../img/background__historia.jpg");
-
-    
+#gal{   
+    background-color: #414142ec; 
     color: #FFFFFF;
 }
 
