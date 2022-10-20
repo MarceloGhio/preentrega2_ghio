@@ -17,9 +17,8 @@ a{
 }
 
 #historia{
-    background-image: url("../img/background__historia.jpg");
-    background-size: auto;
-    color: #FFFFFF;
+    
+    color: #c2bdbd;
 }
 
 #inicia{
@@ -44,12 +43,11 @@ a{
     padding: 2rem;
  }
 
- .img_geralt{
-    max-width: 100vw;
+
+#geralt__img{
     background-color: #414142ec;
-    margin: 0rem;
-    padding: 0rem;
- }
+
+}
 
  /*--FOOTER--*/
 
@@ -62,8 +60,8 @@ a{
 
 #gal{
     background-image: url("../img/background__historia.jpg");
-    width: 100vw;
-    margin: 0px;
+
+    
     color: #FFFFFF;
 }
 
