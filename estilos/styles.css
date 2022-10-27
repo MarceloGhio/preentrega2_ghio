@@ -1,4 +1,5 @@
-/*body{
+/*-----------------------------------sin efecto-------------------------------------------
+body{
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
@@ -84,7 +85,8 @@ a{
     grid-template-columns: repeat(2, 1fr);
     gap: 0.1em;
 }*/
-/*---------------------------------------------ACA-------------------------------------------*/
+/*---------------------------------------------fin sin efecto-------------------------------------------*/
+/*---------------------------------------------Desde aqui funciona css-------------------------------------------*/
 
 header{
     background-color: #121213;
@@ -143,4 +145,4 @@ a{
     background-image: url(../img/background__historia.jpg);
     color: #FFFFFF;
 }
-/*-----------de aca para arriba funciona bien con el css---------------*/
+/*-----------de aca para arriba funciona bien con css---------------*/
